@@ -7,8 +7,11 @@
 ## Checklist:
 
 * [ ] Have you followed the guidelines For How to submit Your Work?
+* [ ] Have you Assigned at least one reviewer to your PR ?
+* [ ] Have you selected your self from the Assignees list?
+* [ ] Have you selected appropriate Label from the Labels list?
+* [ ] Have you selected appropriate milestone from the milestones  list?
 * [ ] Have you included References for your work?
-* [ ] Have you enriched your work with images , code snipets or diagrams ?
-
+* [ ] Have you enriched your work with images , code snippets or diagrams ?
 
 
